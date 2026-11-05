@@ -51,6 +51,8 @@ The dashboard provides insights into:
 
 ## Project File
 `Excel Sales Dashboard.xlsx`
+## Dashboard Preview
+![Excel Sales Dashboard](dashboard-preview.png)
 
 ## Author
 Megha
